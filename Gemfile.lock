@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    units (1.0.1)
+    yard (0.9.26)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  units
+  yard (~> 0.9.26)
 
 RUBY VERSION
    ruby 2.7.2p137
